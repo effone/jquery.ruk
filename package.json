@@ -1,0 +1,27 @@
+{
+  "name": "jquery.ruk",
+  "version": "1.0.0",
+  "description": "Yet another full-fledged jQuery accordion plugin with bare minimum code",
+  "main": "./dist/jquery.ruk.min.js",
+  "ecosystem": "jquery",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/effone/jquery.ruk.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "accordion",
+    "bare",
+    "small",
+    "tiny"
+  ],
+  "author": "effone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/effone/jquery.ruk/issues"
+  },
+  "homepage": "https://github.com/effone/jquery.ruk#readme"
+}

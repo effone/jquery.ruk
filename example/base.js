@@ -1,0 +1,3 @@
+$( "#ruk" ).ruk({
+   only: true
+});

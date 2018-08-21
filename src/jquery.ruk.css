@@ -1,0 +1,16 @@
+.ruk>div>* {
+    border: 1px solid #EEE;
+    padding: 10px;
+}
+
+.ruk>div>.rq {
+    background: #FBFBFB;
+    font-weight: 700;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.ruk>div>.ra {
+    border-top: none;
+    display: none;
+}
