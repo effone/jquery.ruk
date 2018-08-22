@@ -7,12 +7,12 @@ Since it is a jQuery plugin; jQuery library should be included on prior.
 ## Instalation
 Include `jquery.ruk.min.css` from dist folder.
 ```
-<link rel="stylesheet" href="./dist/jquery.nok.min.css">
+<link rel="stylesheet" href="./dist/jquery.ruk.min.css">
 ```
 
 Include `jquery.ruk.min.js` from dist folder.
 ```
-<script src="./dist/jquery.nok.min.js"></script>
+<script src="./dist/jquery.ruk.min.js"></script>
 ```
 Initiate the plugin.
 ```
