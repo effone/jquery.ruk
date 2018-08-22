@@ -1,3 +1,5 @@
-$( "#ruk" ).ruk({
-   only: true
+$("#ruk").ruk({
+    after: function (id, state) {
+        console.log(id + " : " + state);
+    }
 });
